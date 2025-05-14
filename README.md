@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adharsh Jaison</h1>
 <h3 align="center">I am a highly motivated data science graduate student with expertise in Python, Power BI, and SQL. With hands-on experience in exploratory data analysis, machine learning, and full-stack web development, I excel in leveraging data to derive insights and create impactful solutions. Passionate about driving innovation and solving real-world problems through technology.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adharsh-jaison" alt="adharsh-jaison" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
