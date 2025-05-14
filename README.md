@@ -34,10 +34,13 @@
 </div>
 
 ###
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Adharsh-jaison/count.svg?"  />
+</div>
 
+###
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Adharsh-jaison/Adharsh-jaison/output/snake.svg" alt="Snake animation" />
 
 ###
 
