@@ -1,17 +1,22 @@
-  <div align="center" >
-    <a href="https://git.io/typing-svg"><img
-        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&pause=1000&color=5DF700&width=435&lines=Hello+There+%2C+Nice+To+See+You;I'm+Adharsh+Jaison;Data+Science+Enthusiast"
-        alt="Typing SVG" /></a>
-  </div>
-  
- 
-<br>
+<p align="center"><i>“Dream is not what you see in sleep; dream is something that does not let you sleep. When you work with passion, technology becomes a tool to transform ideas into reality. Your vision, when backed with hard work and knowledge, can create a future that once seemed impossible.”</i></p>
+<p align="center"><i>- Dr. A.P.J. Abdul Kalam -</i></p>
+
 
 <p align="center">
 
   <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
 
 </p>
+  <div align="center" >
+    <a href="https://git.io/typing-svg"><img
+        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&pause=1000&color=5DF700&width=435&lines=Hello+There+%2C+Nice+To+See+You;Hello+%2C+I'm+Adharsh+Jaison+✌️;Data+Science+Enthusiast"
+        alt="Typing SVG" /></a>
+  </div>
+  
+ 
+<br>
+
+
 
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />About Me:
