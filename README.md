@@ -1,8 +1,38 @@
-<h1 align="center">Hi 👋, I'm Adharsh Jaison</h1>
-<h3 align="center">I am a highly motivated data science graduate student with expertise in Python, Power BI, and SQL. With hands-on experience in exploratory data analysis, machine learning, and full-stack web development, I excel in leveraging data to derive insights and create impactful solutions. Passionate about driving innovation and solving real-world problems through technology.</h3>
+  <div align="center" >
+    <a href="https://git.io/typing-svg"><img
+        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&pause=1000&color=5DF700&width=435&lines=Hello+There+%2C+Nice+To+See+You;I'm+Adharsh+Jaison;Data+Science+Enthusiast"
+        alt="Typing SVG" /></a>
+  </div>
+  
+ 
+<br>
+
+<p align="center">
+
+  <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+
+</p>
 
 
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />About Me:
+🎓 I'm a Data Science Graduate Student and AI Intern at Christ Infotech, Pune
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
+🤖 I build AI-powered applications, including RAG-based chatbots, Gemini-integrated tools, and full-stack web apps
+
+💻 I use daily: Python, SQL, Flask, Django, JavaScript, Power BI
+
+🧠 I work with: Machine Learning, LLMs, LangChain, RAG, Gemini 1.5 Flash API
+
+📚 Currently learning advanced concepts in NLP, DevOps, and cloud computing
+
+✍️ I enjoy simplifying complex tech so beginners can understand it
+
+💬 Talk to me about AI, data science, cloud, NLP models, and anything tech-related
+
+⚡ Fun fact: I'm an AI enthusiast who loves exploring new tools and building useful real-world projects
+
+🧑‍💻 Tech I work on:
 ###
 
 <div align="left">
@@ -41,69 +71,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
-
-###
-
-<div align="left">
-<!--   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> -->
-</div>
 
 
-<br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adharsh-jaison&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adharsh-jaison&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
-###
-###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adharsh-jaison/Adharsh-jaison/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adharsh-jaison/Adharsh-jaison/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Adharsh-jaison/Adharsh-jaison/output/pacman-contribution-graph.svg">
-</picture>
 
-###
-###
-
-  
-  <img
-    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-    <img align="right" src="https://profile-counter.glitch.me/Adharsh-jaison/count.svg">
-    <br>
-
-  <div align="center" >
-    <a href="https://git.io/typing-svg"><img
-        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&pause=1000&color=5DF700&width=435&lines=Hello+There+%2C+Nice+To+See+You;I'm+Adharsh+Jaison;Data+Science+Enthusiast"
-        alt="Typing SVG" /></a>
-  </div>
-  
- 
-<br>
 	
 
 
-<p align="center">
 
-  <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
 
-</p>
-
+<details>
+<summary>more</summary>
 <h3 align="center">Languages</h3>
 <p align="center">
   
   
- <a href="https://www.java.com/en/" target="_blank"> 
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"
-      alt="java"/>
-  </a>
+
   
   <a href="https://www.python.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"
@@ -132,9 +116,7 @@
 <h3 align="center">Frontend</h3>
 <p align="center">
 
-  <a href="https://www.chartjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" alt="chart.js"/> 
-  </a>
+
   
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
@@ -180,23 +162,14 @@
   </a>
  
 </p>
-<h3 align="center">Moble App</h3>
-<p align="center"> 
-  <a href="https://flutter.dev/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"
-      alt="Flutter" /> 
-  </a> 
- 
-</p>
+
 <h3 align="center">Preferred IDEs  & Tools :</h3>
 <p align="center"> 
   
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
   </a>
-  <a href="https://www.jetbrains.com/" target="_blank">
-    <img src="https://img.shields.io/badge/jetbrains%20IDE-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white" alt="jetbrains" />
-  <a href="https://www.virtualbox.org/" target="_blank">
+    <a href="https://www.virtualbox.org/" target="_blank">
     <img src="https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white"
       alt="virtualbox"/>
   </a>
@@ -216,28 +189,7 @@
 
 </p>
 
-
----
-
-<div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2>
-
-
-</div>
-
----
-
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
-<br/>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
-
-
-
-<br/>
+</details>
 <hr/>
 
 
@@ -246,4 +198,9 @@
 </h3>
 
 <br/>
+
+
+
+
+
 
