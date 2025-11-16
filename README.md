@@ -2,7 +2,6 @@
 <h3 align="center">I am a highly motivated data science graduate student with expertise in Python, Power BI, and SQL. With hands-on experience in exploratory data analysis, machine learning, and full-stack web development, I excel in leveraging data to derive insights and create impactful solutions. Passionate about driving innovation and solving real-world problems through technology.</h3>
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 ###
 
@@ -55,12 +54,7 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> -->
 </div>
 
-###
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Adharsh-jaison/count.svg?"  />
-</div>
 
-###
 <br clear="both">
 
 <div align="center">
@@ -94,38 +88,7 @@
  
 <br>
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right"
-      src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width=250px>
-</picture>
-
-  <be>
-
-
-
-
-
--  👀 Exploring the realms of software development, specializing in web technologies. From crafting responsive user interfaces to building robust server-side applications, I thrive on the dynamic landscape of web development.
-
-- 🌱 Constantly nurturing my skills in various web development frameworks and tools, always eager to embrace the latest trends and advancements in the ever-evolving world of web tech.</li>
-
-- 💞️ Eager to collaborate on exciting web projects, contribute to open-source initiatives or dive into hackathons focused on creating innovative web solutions.</li>
-
-
-
-
-
-Let's craft brilliance through code! ✨
-
-  <br>
-
-  <img
-    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-
-
-## 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
 <p align="center">
 
