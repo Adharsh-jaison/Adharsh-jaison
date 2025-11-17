@@ -4,7 +4,7 @@
 
 <p align="center">
 
-  <img src="https://github.com/Adharsh-jaison/Adharsh-jaison/blob/main/Monkey_D_Luffy_Gear_5_PNG-removebg-preview.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+  <img src="https://i.pinimg.com/736x/a1/b7/91/a1b7918e0ca9840f3c2e15759e41310f.jpg" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
 
 </p>
   <div align="center" >
