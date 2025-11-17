@@ -4,7 +4,7 @@
 
 <p align="center">
 
-  <img src="https://i.pinimg.com/originals/c0/cb/d0/c0cbd02834b1d168ec087a429018b09e.gif" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+  <img src="https://i.pinimg.com/736x/bf/56/a5/bf56a5ec0ef3ce72937d75fdcae3f26a.jpg" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
 
 </p>
   <div align="center" >
@@ -208,7 +208,7 @@
 
 <p align="center">
 
-  <img src="https://i.pinimg.com/originals/f6/e8/5b/f6e85bc203346b961bc2ec35be05222c.gif" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+  <img src="https://i.pinimg.com/originals/65/2e/55/652e558bb2bdc37120bc3a1c6c093d01.gif" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
 
 </p>
 
