@@ -18,7 +18,7 @@
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> Professional Summary
 
-Aspiring Cloud & DevOps Engineer and AI-Driven Full-Stack Developer with a strong passion for building intelligent, scalable, and automation-focused applications. I specialize in AI-powered systems, NLP solutions, and modern web development, with hands-on experience integrating Google Gemini APIs, Flask, and JavaScript interfaces. Currently advancing my skills in Cloud Computing & DevOps—including CI/CD pipelines, containerization, Linux automation, and cloud-native tools—while continuously exploring the intersection of AI, Automation, and Cloud to create impactful, future-ready digital solutions.</b>
+<i><b>Aspiring Cloud & DevOps Engineer and AI-Driven Full-Stack Developer with a strong passion for building intelligent, scalable, and automation-focused applications. I specialize in AI-powered systems, NLP solutions, and modern web development, with hands-on experience integrating Google Gemini APIs, Flask, and JavaScript interfaces. Currently advancing my skills in Cloud Computing & DevOps including CI/CD pipelines, containerization, Linux automation, and cloud-native tools while continuously exploring the intersection of AI, Automation, and Cloud to create impactful, future-ready digital solutions.</i></b>
 
 
 
