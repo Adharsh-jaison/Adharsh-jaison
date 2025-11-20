@@ -4,7 +4,7 @@
 
 <p align="center">
 
-  <img src="https://i.pinimg.com/736x/bf/56/a5/bf56a5ec0ef3ce72937d75fdcae3f26a.jpg" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+  <img src="https://i.pinimg.com/originals/ab/7e/9e/ab7e9e9237ab0f62324e7461c74db788.gif" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
 
 </p>
   <div align="center" >
@@ -16,10 +16,15 @@
  
 <br>
 
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> Professional Summary
+
+Aspiring Cloud & DevOps Engineer and AI-Driven Full-Stack Developer with a strong passion for building intelligent, scalable, and automation-focused applications. I specialize in AI-powered systems, NLP solutions, and modern web development, with hands-on experience integrating Google Gemini APIs, Flask, and JavaScript interfaces. Currently advancing my skills in Cloud Computing & DevOps—including CI/CD pipelines, containerization, Linux automation, and cloud-native tools—while continuously exploring the intersection of AI, Automation, and Cloud to create impactful, future-ready digital solutions.</b>
 
 
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />About Me:
+
+### <img src="https://i.pinimg.com/736x/2a/9f/3a/2a9f3a77ad234d267c60cb5294993b20.jpg" width="30" > About Me:
+
 🎓 I'm a Data Science Graduate Student and AI Intern at Christ Infotech, Pune
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
