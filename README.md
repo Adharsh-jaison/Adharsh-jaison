@@ -1,12 +1,12 @@
 <p align="center"><i>“Dream is not what you see in sleep; dream is something that does not let you sleep. When you work with passion, technology becomes a tool to transform ideas into reality. Your vision, when backed with hard work and knowledge, can create a future that once seemed impossible.”</i></p>
 <p align="center"><i>- Dr. A.P.J. Abdul Kalam -</i></p>
 
-
 <p align="center">
 
-  <img src="https://i.pinimg.com/originals/ab/7e/9e/ab7e9e9237ab0f62324e7461c74db788.gif" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+  <img src="https://i.pinimg.com/1200x/df/8e/20/df8e201656aa16a13f026936edcedbba.jpg" alt="GitHub Octocat Drinking a Cup of Coffee" height="300">
 
 </p>
+
   <div align="center" >
     <a href="https://git.io/typing-svg"><img
         src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&pause=1000&color=5DF700&width=435&lines=Hello+%2C+I'm+Adharsh+Jaison+✌️;I+am+a+%2C+Data+Science+Enthusiast"
@@ -217,12 +217,13 @@
 
 <br/>
 
-
-
 <p align="center">
 
-  <img src="https://i.pinimg.com/originals/65/2e/55/652e558bb2bdc37120bc3a1c6c093d01.gif" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+  <img src="https://i.pinimg.com/originals/ab/7e/9e/ab7e9e9237ab0f62324e7461c74db788.gif" alt="GitHub Octocat Drinking a Cup of Coffee" height="300">
 
 </p>
+
+
+
 
 
