@@ -23,7 +23,7 @@
 
 
 
-### <img src="https://i.pinimg.com/736x/2a/9f/3a/2a9f3a77ad234d267c60cb5294993b20.jpg" width="30" > About Me:
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
 🎓 I'm a Data Science Graduate Student and AI Intern at Christ Infotech, Pune
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
