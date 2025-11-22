@@ -93,6 +93,14 @@
 
 <details>
 <summary>more</summary>
+
+	
+
+<p align="center">
+
+  <img src="https://i.pinimg.com/736x/a1/b7/91/a1b7918e0ca9840f3c2e15759e41310f.jpg" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+
+</p>
 <h3 align="center">Languages</h3>
 <p align="center">
   
