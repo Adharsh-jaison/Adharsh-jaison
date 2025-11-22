@@ -1,5 +1,5 @@
-<p align="center"><i>“Dream is not what you see in sleep; dream is something that does not let you sleep. When you work with passion, technology becomes a tool to transform ideas into reality. Your vision, when backed with hard work and knowledge, can create a future that once seemed impossible.”</i></p>
-<p align="center"><i>- Dr. A.P.J. Abdul Kalam -</i></p>
+<p align="center"><i><b>“Dream is not what you see in sleep; dream is something that does not let you sleep. When you work with passion, technology becomes a tool to transform ideas into reality. Your vision, when backed with hard work and knowledge, can create a future that once seemed impossible.”</i></b></p>
+<p align="center"><i><b>- Dr. A.P.J. Abdul Kalam -</i></p></b>
 
 <p align="center">
 
