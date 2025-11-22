@@ -1,4 +1,4 @@
-<p align="center"><i><b>“Dream is not what you see in sleep; dream is something that does not let you sleep. When you work with passion, technology becomes a tool to transform ideas into reality. Your vision, when backed with hard work and knowledge, can create a future that once seemed impossible.”</i></b></p>
+<p align="center"><i>“Dream is not what you see in sleep; dream is something that does not let you sleep. When you work with passion, technology becomes a tool to transform ideas into reality. Your vision, when backed with hard work and knowledge, can create a future that once seemed impossible.”</i></p>
 <p align="center"><i><b>- Dr. A.P.J. Abdul Kalam -</i></p></b>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> Professional Summary
 
-<i><b>Aspiring Cloud & DevOps Engineer and AI-Driven Full-Stack Developer with a strong passion for building intelligent, scalable, and automation-focused applications. I specialize in AI-powered systems, NLP solutions, and modern web development, with hands-on experience integrating Google Gemini APIs, Flask, and JavaScript interfaces. Currently advancing my skills in Cloud Computing & DevOps including CI/CD pipelines, containerization, Linux automation, and cloud-native tools while continuously exploring the intersection of AI, Automation, and Cloud to create impactful, future-ready digital solutions.</i></b>
+<i>Aspiring Cloud & DevOps Engineer and AI-Driven Full-Stack Developer with a strong passion for building intelligent, scalable, and automation-focused applications. I specialize in AI-powered systems, NLP solutions, and modern web development, with hands-on experience integrating Google Gemini APIs, Flask, and JavaScript interfaces. Currently advancing my skills in Cloud Computing & DevOps including CI/CD pipelines, containerization, Linux automation, and cloud-native tools while continuously exploring the intersection of AI, Automation, and Cloud to create impactful, future-ready digital solutions.</i>
 
 
 
