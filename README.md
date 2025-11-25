@@ -3,7 +3,7 @@
 
 <p align="center">
 
-  <img src="https://i.pinimg.com/1200x/df/8e/20/df8e201656aa16a13f026936edcedbba.jpg" alt="GitHub Octocat Drinking a Cup of Coffee" height="300">
+  <img src="https://github.com/Adharsh-jaison/Adharsh-jaison/blob/main/avatar-removebg-preview.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="300">
 
 </p>
 
@@ -98,7 +98,7 @@
 
 <p align="center">
 
-  <img src="https://i.pinimg.com/736x/a1/b7/91/a1b7918e0ca9840f3c2e15759e41310f.jpg" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+  <img src="https://github.com/Adharsh-jaison/Adharsh-jaison/blob/main/download__1_-removebg-preview.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
 
 </p>
 <h3 align="center">Languages</h3>
