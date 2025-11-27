@@ -237,7 +237,6 @@ Looked at data like a detective using Excel + Python 🕵️‍♂️📈.
 ### **2024 | 🚗 Built DriveFIX (Vehicle Service Management App)**
 A full-stack Django platform connecting vehicle owners & service centers.  
 Tech stack: Django + SQLite + HTML/CSS/JS + NLP.  
-Coffee consumption: high ☕😅.
 
 ---
 
@@ -261,7 +260,7 @@ Currently:
 - Deploying smarter systems  
 - Learning nonstop  
 
----
+
 
 </details>
 <hr/>
