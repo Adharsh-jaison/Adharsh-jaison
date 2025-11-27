@@ -208,6 +208,62 @@
 </p>
 
 </details>
+
+<details>
+	<summary>
+		🕰 My (Slightly Chaotic) Career Timeline
+	</summary>
+	
+
+### **2020 – 2023 | 🎓 B.Sc. Mathematics**
+Learned maths, stats, logic… basically everything *except* how to avoid semester stress 🧮😵‍💫.  
+But this is where the analytical brain officially booted up 🧠⚡.
+
+---
+
+### **2023 | 🧠 Entered the World of Data Science**
+Discovered Python.  
+Discovered Machine Learning.  
+Also discovered that debugging takes 90% of life 🐍💻🔥.
+
+---
+
+### **2023 | 📊 Built My First EDA Dashboard**
+Created dashboards, visual insights, and customer behavior analytics.  
+Looked at data like a detective using Excel + Python 🕵️‍♂️📈.
+
+---
+
+### **2024 | 🚗 Built DriveFIX (Vehicle Service Management App)**
+A full-stack Django platform connecting vehicle owners & service centers.  
+Tech stack: Django + SQLite + HTML/CSS/JS + NLP.  
+Coffee consumption: high ☕😅.
+
+---
+
+### **2025 | 🤖 AI Intern @ Christ Infotech, Pune**
+Developed AI tools & RAG-based chatbots using FAISS, LangChain, BeautifulSoup, and Google Gemini.  
+Basically living inside VS Code at this point 💻⚡.  
+Chris Chatbot was born — smarter than expected 😎.
+
+---
+
+### **2025 | ☁️🛠️ Cloud & DevOps Journey Begins**
+Started learning AWS, CI/CD, shell scripting, Docker, and Kubernetes.  
+Feels like discovering the backend of the universe ☁️🌍.
+
+---
+
+### **2025 | 🔄 Plot Twist (because life loves drama)**
+Decided to combine **AI + DevOps** to become a hybrid engineer.  
+Currently:  
+- Building new AI tools  
+- Deploying smarter systems  
+- Learning nonstop  
+
+---
+
+</details>
 <hr/>
 
 
