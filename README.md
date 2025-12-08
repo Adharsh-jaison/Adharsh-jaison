@@ -1,9 +1,8 @@
-<p align="center"><i>“Dream is not what you see in sleep; dream is something that does not let you sleep. When you work with passion, technology becomes a tool to transform ideas into reality. Your vision, when backed with hard work and knowledge, can create a future that once seemed impossible.”</i></p>
-<p align="center"><i><b>- Dr. A.P.J. Abdul Kalam -</i></p></b>
+
 
 <p align="center">
 
-  <img src="https://github.com/Adharsh-jaison/Adharsh-jaison/blob/main/avatar-removebg-preview.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="300">
+  <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="GitHub Octocat Drinking a Cup of Coffee" height="300">
 
 </p>
 
@@ -12,7 +11,8 @@
         src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&pause=1000&color=5DF700&width=435&lines=Hello+%2C+I'm+Adharsh+Jaison+✌️;I+am+a+%2C+Data+Science+Enthusiast"
         alt="Typing SVG" /></a>
   </div>
-  
+  <p align="center"><i>“Dream is not what you see in sleep; dream is something that does not let you sleep. When you work with passion, technology becomes a tool to transform ideas into reality. Your vision, when backed with hard work and knowledge, can create a future that once seemed impossible.”</i></p>
+<p align="center"><i><b>- Dr. A.P.J. Abdul Kalam -</i></p></b>
  
 <br>
 
